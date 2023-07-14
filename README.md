@@ -10,5 +10,6 @@
 
 ### <p align="center"> Show Daily Consume </p>
 ------------------
-![image](https://github.com/NunoSources/MacroCounter/assets/98571427/045717ba-361f-40e6-8754-9479abacadfc)
-
+<p align="center">
+  <img src=https://github.com/NunoSources/MacroCounter/assets/98571427/045717ba-361f-40e6-8754-9479abacadfc) />
+</p>
