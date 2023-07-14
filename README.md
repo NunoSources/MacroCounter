@@ -1,5 +1,7 @@
 # <p align="center"> 💪MacroCounter🍎 </p>
 
+#### <p align="center"> A program to record your daily food consumption and track your macro goals </p>
+
 ### <p align="center"> Products Database </p>
 ------------------
 ![image](https://github.com/NunoSources/MacroCounter/assets/98571427/09572961-5edd-4941-b2d8-12c09d91ce83)
