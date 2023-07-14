@@ -4,14 +4,18 @@
 
 ### <p align="center"> Products Database </p>
 ------------------
-![image](https://github.com/NunoSources/MacroCounter/assets/98571427/09572961-5edd-4941-b2d8-12c09d91ce83)
+<p align="center">
+  <img src="https://github.com/NunoSources/MacroCounter/assets/98571427/1094fa3a-b8a7-47a5-a744-19c1500a436d" />
+</p>
 
 ### <p align="center"> Filter By </p>
 ------------------
-![image](https://github.com/NunoSources/MacroCounter/assets/98571427/2bdae37f-8f53-4474-86a0-47859e784550)
+<p align="center">
+  <img src="https://github.com/NunoSources/MacroCounter/assets/98571427/bb9d03b0-f428-4560-bdc4-1e2117462b41" />
+</p>
 
 ### <p align="center"> Show Daily Consume </p>
 ------------------
 <p align="center">
-  <img src=https://github.com/NunoSources/MacroCounter/assets/98571427/045717ba-361f-40e6-8754-9479abacadfc) />
+  <img src="https://github.com/NunoSources/MacroCounter/assets/98571427/7a8e56ab-1c89-4311-98bb-8dfc3e820d10" />
 </p>
