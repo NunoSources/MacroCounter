@@ -1,4 +1,4 @@
-# <p align="center"> 💪 MacroCounter 🍎 </p>
+# <p align="center"> 💪MacroCounter🍎 </p>
 
 ### <p align="center"> Products Database </p>
 ------------------
