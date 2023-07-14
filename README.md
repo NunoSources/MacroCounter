@@ -14,6 +14,13 @@
   <img src="https://github.com/NunoSources/MacroCounter/assets/98571427/bb9d03b0-f428-4560-bdc4-1e2117462b41" />
 </p>
 
+### <p align="center"> Add on Daily Consume </p>
+------------------
+<p align="center">
+  <img src="https://github.com/NunoSources/MacroCounter/assets/98571427/6ca55f8a-b967-4015-98cb-b1ab968a9620" />
+</p>
+
+
 ### <p align="center"> Show Daily Consume </p>
 ------------------
 <p align="center">
